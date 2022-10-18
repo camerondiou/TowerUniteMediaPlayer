@@ -7,7 +7,9 @@ Tested on Ubuntu 22.04.1 and 20.04.5
 
 1. First download the setup script to your server. This can be done with the command below:
 
+```bash
 wget https://raw.githubusercontent.com/camerondiou/TowerUniteMediaPlayer/main/setup.sh
+```
 
 2. Allow the scipt to be executed:
 
