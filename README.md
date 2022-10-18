@@ -13,25 +13,33 @@ wget https://raw.githubusercontent.com/camerondiou/TowerUniteMediaPlayer/main/se
 
 2. Allow the scipt to be executed:
 
+```bash
 chmod +x setup.sh
+```
 
 3. Run the script
 
+```bash
 ./setup.sh
+```
 
 4. When that completes it might ask you to restart the some services. Just press OK for the defaults. 
 5. Once the setup script exits you can the download the addMedia.sh script with the command below:
 
+```bash
 wget https://raw.githubusercontent.com/camerondiou/TowerUniteMediaPlayer/main/addMedia.sh
+```
 
 6. Allow the scipt to be executed:
 
+```bash
 chmod +x addMedia.sh
+```
 
 7. Run the script
-
+```bash
 ./addMedia
-
+```
 8. Once the script starts it will ask you what you want to name the file. Whatever you enter here will be saved as the media file name, and the name of the webpage. 
 9. Next the script will ask you for the URL to the media. Enter any destination and the script will try to download it and then convert it to webm. 
 10. This might take some time depending on your network and the specs of your server, but once it is completed you can now watch your media in game by going to "http://your-ip/filename.html
