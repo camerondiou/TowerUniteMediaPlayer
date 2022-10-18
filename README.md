@@ -41,8 +41,8 @@ chmod +x addMedia.sh
 ./addMedia
 ```
 8. Once the script starts it will ask you what you want to name the file. Whatever you enter here will be saved as the media file name, and the name of the webpage. 
-9. Next the script will ask you for the URL to the media. Enter any destination and the script will try to download it and then convert it to webm. 
-10. This might take some time depending on your network and the specs of your server, but once it is completed you can now watch your media in game by going to "http://your-ip/filename.html
+9. Next it will ask you for the URL to the media. Enter any destination and the script will try to download it and then convert it to webm. 
+10. This might take some time depending on your network, filesize and the specs of your server, but once it is completed you can now watch your media in game by going to "http://your-ip/filename.html". Just change out filename to the name you set in step 8. 
 11. Finally get some popcorn and watch some media with friends! 
 
 Limitations:
