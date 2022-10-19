@@ -1,11 +1,9 @@
 # TowerUniteMediaPlayer
-Quick way to host your own media server to play videos in the game Tower Unite
+This small script aims to greatly expand the capabilities of the in game media player by allowing you to host your own media server to watch ANYTHING in game. It does this by converting any media (from any site supported by youtube-dl) to webm format, and then creates a webpage on your media server that sets up the exact parameters to have the media be in full screen on your player. 
 
 Overview:
 
 Tower Unite is a great game, but has some serious limitations on its media player. For starters it really only supports soundcloud and youtube. Along with this it can load web pages, but you are unable to interact with them after loading, so this makes most sites unusable. With this in mind I tried to create a solution that worked within these limitations, and tried to streamline it where anyone with basic Linux and networking knowledge can get this working. 
-
-This small script aims to greatly expand the capabilities of the in game media player by allowing you to host your own media server to watch ANYTHING in game. It does this by converting any media (from any site supported by youtube-dl) to webm format, and then creates a webpage on your media server that sets up the exact parameters to have the media be in full screen on your player. 
 
 Guide:
 
